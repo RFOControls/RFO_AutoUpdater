@@ -5,7 +5,7 @@
 ;;Кириллица не поддерживается.
 ApplicationID = 1265709645461323868
 FirstTextRow = Asterios [x5]
-SecondTextRow = OPEN 20.09.24
+SecondTextRow = OPEN 29.03.25
 LogoHoverText = www.playgames.su
 ;;название файла ассета из личного кабинета разработчика дискорда в разделе Rich Presence Art Assets
 LogoID = logo

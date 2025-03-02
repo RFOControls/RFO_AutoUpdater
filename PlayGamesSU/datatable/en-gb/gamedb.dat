@@ -4,7 +4,7 @@
 ;;If you leave ButtonName and ButtonURL empty, this button won't be visable in status
 ApplicationID = 1265709645461323868
 FirstTextRow = Asterios [x5]
-SecondTextRow = OPEN 20.09.24
+SecondTextRow = OPEN 29.03.25
 LogoHoverText = www.playgames.su
 ;;asset name from your Rich Presence Art Assets tab in developer website
 LogoID = logo
